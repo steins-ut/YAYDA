@@ -1,0 +1,1 @@
+pyuic5.exe -x YAYDA_MainWindow_Design1.ui -o YAYDA_MainWindow_Design1.py
